@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/ahmed/Learning/lob-engine/build",
+  "command": "/usr/bin/c++  -I/home/ahmed/Learning/lob-engine/include -O3 -march=native -DNDEBUG -std=gnu++17 -o CMakeFiles/lob_engine.dir/src/order_book.cpp.o -c /home/ahmed/Learning/lob-engine/src/order_book.cpp",
+  "file": "/home/ahmed/Learning/lob-engine/src/order_book.cpp",
+  "output": "CMakeFiles/lob_engine.dir/src/order_book.cpp.o"
+},
+{
+  "directory": "/home/ahmed/Learning/lob-engine/build",
+  "command": "/usr/bin/c++  -I/home/ahmed/Learning/lob-engine/include -O3 -march=native -DNDEBUG -std=gnu++17 -o CMakeFiles/lob_engine.dir/src/matching_engine.cpp.o -c /home/ahmed/Learning/lob-engine/src/matching_engine.cpp",
+  "file": "/home/ahmed/Learning/lob-engine/src/matching_engine.cpp",
+  "output": "CMakeFiles/lob_engine.dir/src/matching_engine.cpp.o"
+},
+{
+  "directory": "/home/ahmed/Learning/lob-engine/build",
+  "command": "/usr/bin/c++  -I/home/ahmed/Learning/lob-engine/include -O3 -march=native -DNDEBUG -std=gnu++17 -o CMakeFiles/bench.dir/bench/benchmark.cpp.o -c /home/ahmed/Learning/lob-engine/bench/benchmark.cpp",
+  "file": "/home/ahmed/Learning/lob-engine/bench/benchmark.cpp",
+  "output": "CMakeFiles/bench.dir/bench/benchmark.cpp.o"
+},
+{
+  "directory": "/home/ahmed/Learning/lob-engine/build",
+  "command": "/usr/bin/c++  -I/home/ahmed/Learning/lob-engine/include -O3 -march=native -DNDEBUG -std=gnu++17 -o CMakeFiles/tests.dir/tests/test_orderbook.cpp.o -c /home/ahmed/Learning/lob-engine/tests/test_orderbook.cpp",
+  "file": "/home/ahmed/Learning/lob-engine/tests/test_orderbook.cpp",
+  "output": "CMakeFiles/tests.dir/tests/test_orderbook.cpp.o"
+}
+]

@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -march=native -DNDEBUG CMakeFiles/bench.dir/bench/benchmark.cpp.o -o bench  liblob_engine.a 
