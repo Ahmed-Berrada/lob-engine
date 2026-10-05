@@ -1,1 +1,0 @@
-/usr/bin/c++ -O3 -march=native -DNDEBUG CMakeFiles/feed_sim.dir/tools/feed_simulator.cpp.o -o feed_sim  liblob_engine.a 

@@ -1,5 +1,0 @@
-/home/ahmed/Learning/lob-engine/build/CMakeFiles/lob_engine.dir
-/home/ahmed/Learning/lob-engine/build/CMakeFiles/bench.dir
-/home/ahmed/Learning/lob-engine/build/CMakeFiles/tests.dir
-/home/ahmed/Learning/lob-engine/build/CMakeFiles/edit_cache.dir
-/home/ahmed/Learning/lob-engine/build/CMakeFiles/rebuild_cache.dir

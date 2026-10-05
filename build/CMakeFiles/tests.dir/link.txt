@@ -1,1 +1,0 @@
-/usr/bin/c++ -O3 -march=native -DNDEBUG CMakeFiles/tests.dir/tests/test_orderbook.cpp.o -o tests  liblob_engine.a 
