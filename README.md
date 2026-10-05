@@ -1,5 +1,9 @@
 # LOB Engine — Limit Order Book Matching Engine
 
+[![CI](https://github.com/Ahmed-Berrada/lob-engine/actions/workflows/ci.yml/badge.svg)](https://github.com/Ahmed-Berrada/lob-engine/actions/workflows/ci.yml)
+
+*[English version](README.en.md)*
+
 > Moteur d'appariement haute performance en C++17 — Price-Time Priority FIFO
 > **3.46M ops/sec | 163ns médiane | O(log n) matching**
 
@@ -224,15 +228,14 @@ Median < 500ns:          PASS ✓
 
 ```bash
 # Build en Release (-O3 -march=native)
-mkdir -p build && cd build
-cmake .. -DCMAKE_BUILD_TYPE=Release
-cmake --build .
+cmake -S . -B build -DCMAKE_BUILD_TYPE=Release
+cmake --build build -j
 
 # Tests unitaires
-./tests
+./build/tests
 
 # Benchmark
-./bench
+./build/bench
 ```
 
 ---
@@ -300,4 +303,4 @@ cmake --build .
 
 ## Licence
 
-Projet éducatif — usage libre.
+MIT. Voir [LICENSE](LICENSE).
